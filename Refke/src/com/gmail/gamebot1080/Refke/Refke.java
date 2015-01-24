@@ -28,7 +28,7 @@ public class Refke extends JavaPlugin {
          
          if(CommandLabel.equalsIgnoreCase("ref")){
                  if(args.length == 0){
-                         player.sendMessage(ChatColor.GREEN + "Referees: "); player.sendMessage(ChatColor.AQUA + "vYuri - lauty01capo - Vixo1 - C4477");
+                         player.sendMessage(ChatColor.GREEN + "Referees: "); player.sendMessage(ChatColor.AQUA + "{PLAYERS}");
                  
                  }
                 
