@@ -1,8 +1,8 @@
 name: Refke
 main: com.gmail.gamebot1080.Refke.Refke
 version: 1.0
-description: It tells the referees
+description: for the moment this only say the name of refs
 commands:
   ref:
-    description: It tells the referees
+    description: for the moment this only say the name of refs.
     
